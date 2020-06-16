@@ -1,0 +1,22 @@
+{
+  "name": "demopkg",
+  "version": "1.0.0",
+  "description": "Handson",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm list"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omkarrathore/Javascript.git"
+  },
+  "keywords": [
+    "omkar_demo"
+  ],
+  "author": "Omkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omkarrathore/Javascript/issues"
+  },
+  "homepage": "https://github.com/omkarrathore/Javascript#readme"
+}
